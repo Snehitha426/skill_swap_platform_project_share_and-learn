@@ -132,7 +132,7 @@ git push origin main
 .DS_Store
 
 📌 Project Team members
-   Karthik
-   Snehitha 
-   Ram Charan
+   Karthik,
+   Snehitha, 
+   Ram Charan.
 
